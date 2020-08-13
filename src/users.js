@@ -8,4 +8,4 @@ const users = [
   {firstName: "Zack", lastName: "Gillmore", role: "Software Engineer", salary: 135000}
 ]
 
-module.exports=users;
+export default users;
