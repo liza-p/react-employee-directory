@@ -3,36 +3,43 @@
     "firstName": "Steve",
     "lastName": "Smith",
     "role": "Software Architect",
-    "salary": 150000
+    "salary": 150000,
+    "DOB": "03-05-1990"
   },
   {
     "firstName": "Anna",
     "lastName": "Lee",
     "role": "UX designer",
-    "salary": 140000
+    "salary": 140000,
+    "DOB": "12-10-1985"
   },
   {
     "firstName": "Elisabeth",
     "lastName": "Goldman",
     "role": "Engineering Manager",
-    "salary": 180000
+    "salary": 180000,
+    "DOB": "01-08-1990"
   },
   {
     "firstName": "Elsa",
     "lastName": "Winterbottom",
     "role": "Security Engineer",
-    "salary": 135000
+    "salary": 135000,
+    "DOB": "02-08-1980"
+
   },
   {
     "firstName": "Wyatt",
     "lastName": "Oleff",
     "role": "Software Engineer",
-    "salary": 130000
+    "salary": 130000,
+    "DOB": "11-07-1980"
   },
   {
     "firstName": "Zack",
     "lastName": "Gillmore",
     "role": "Software Engineer",
-    "salary": 135000
+    "salary": 135000,
+    "DOB": "12-08-1985"
   }
 ]
