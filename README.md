@@ -1,7 +1,7 @@
 # react-employee-directory
 
 ## Link to the deployed application
-[Employee Directory]("https://liza-p.github.io/react-employee-directory/.")
+[Employee Directory](https://liza-p.github.io/react-employee-directory/.)
 
 ## User Story
 
