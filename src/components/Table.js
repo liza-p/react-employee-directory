@@ -6,10 +6,10 @@ function Table(props){
   <table className="table table-hover table-dark">
   <thead>
     <tr className="bg-success">
-      <th scope="col">First Name</th>
-      <th scope="col">Last Name</th>
-      <th scope="col">Role</th>
-      <th scope="col">Salary</th>
+      <th scope="col"><a  href="#" onClick={() => props.onSort("firstName")}>First Name</a></th>
+      <th scope="col"><a  href="#" onClick={() => props.onSort("lastName")}>Last Name</a></th>
+      <th scope="col"><a  href="#" onClick={() => props.onSort("role")}>Role</a></th>
+      <th scope="col"><a  href="#" onClick={() => props.onSort("salary")}>Salary</a></th>
       <th scope="col">DOB</th>
     </tr>
   </thead>
