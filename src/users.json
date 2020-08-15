@@ -41,5 +41,48 @@
     "role": "Software Engineer",
     "salary": 135000,
     "DOB": "12-08-1985"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Smith",
+    "role": "Software Engineer",
+    "salary": 150000,
+    "DOB": "03-05-1990"
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Smith",
+    "role": "UX designer",
+    "salary": 140000,
+    "DOB": "12-10-1985"
+  },
+  {
+    "firstName": "Elisa",
+    "lastName": "Gold",
+    "role": "QA Manager",
+    "salary": 120000,
+    "DOB": "01-08-1990"
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Winter",
+    "role": "QA Engineer",
+    "salary": 100000,
+    "DOB": "02-08-1980"
+
+  },
+  {
+    "firstName": "Asher",
+    "lastName": "Smith",
+    "role": "Software Engineer",
+    "salary": 130000,
+    "DOB": "11-07-1980"
+  },
+  {
+    "firstName": "Rory",
+    "lastName": "Gillmore",
+    "role": "Software Engineer",
+    "salary": 135000,
+    "DOB": "12-08-1985"
   }
 ]
