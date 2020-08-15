@@ -18,9 +18,8 @@ The user should be able to:
 
 
 
-
 ## Demo
-![](./public/.gif)
+![](./img/employee.gif)
 ## Technologies Used
 - JavaScript 
 - React
